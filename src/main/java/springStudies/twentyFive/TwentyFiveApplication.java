@@ -48,6 +48,9 @@ public class TwentyFiveApplication {
 			mergedList = mergedList.next;
 		}
 
+		//07 - 2025-01-08
+		System.out.println("23 horas de um dia corrido, passando pra te desejar forcas e te amo! Comp day da empresa e vc ta mega feliz :) so vai ter que acordar super cedo amanha e por isso nao vai da tempo pra fazer algo maior hj.");
+
 	}
 
 }
