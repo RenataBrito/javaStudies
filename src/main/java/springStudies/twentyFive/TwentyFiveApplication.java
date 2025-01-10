@@ -51,6 +51,9 @@ public class TwentyFiveApplication {
 		//07 - 2025-01-08
 		System.out.println("23 horas de um dia corrido, passando pra te desejar forcas e te amo! Comp day da empresa e vc ta mega feliz :) so vai ter que acordar super cedo amanha e por isso nao vai da tempo pra fazer algo maior hj.");
 
+		//08 - 2025-01-09
+		System.out.println("23:30 quintas e sextas sarao impossieveis, vc ta fazendo volei e natacao tem que compensar depois, dois exercicios em dois outros dias beijos se cuida te amo!");
+
 	}
 
 }
