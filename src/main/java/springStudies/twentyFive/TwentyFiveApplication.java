@@ -54,6 +54,9 @@ public class TwentyFiveApplication {
 		//08 - 2025-01-09
 		System.out.println("23:30 quintas e sextas sarao impossieveis, vc ta fazendo volei e natacao tem que compensar depois, dois exercicios em dois outros dias beijos se cuida te amo!");
 
+		//09 - 2025-01-10
+		System.out.println("23:52 eu esqueci que ontem era segunda e que essa semana eu fui quarta tbm pro trabalho entao hj nao vai da pra fazer exercicios, amanha estaremos ai beijooos");
+
 	}
 
 }
