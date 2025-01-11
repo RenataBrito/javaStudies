@@ -57,6 +57,10 @@ public class TwentyFiveApplication {
 		//09 - 2025-01-10
 		System.out.println("23:52 eu esqueci que ontem era segunda e que essa semana eu fui quarta tbm pro trabalho entao hj nao vai da pra fazer exercicios, amanha estaremos ai beijooos");
 
+		//10 - 2025-01-11
+		RemoveDuplicatesfromSortedArray removeDuplicatesfromSortedArray = new RemoveDuplicatesfromSortedArray();
+		int[] nums = {0,0,1,1,1,2,2,3,3,4};
+		System.out.println(removeDuplicatesfromSortedArray.removeDuplicates(nums));
 	}
 
 }
