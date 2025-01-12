@@ -37,30 +37,35 @@ public class TwentyFiveApplication {
 //		System.out.println(validParentheses.isValid("()[]{}"));
 
 		//6 - 2025-01-07
-		MergeTwoLists mergeTwoLists = new MergeTwoLists();
-		// Lista 1: [1, 2, 4]
-		ListNode list1 = new ListNode(1, new ListNode(2, new ListNode(4)));
-		// Lista 2: [1, 3, 4]
-		ListNode list2 = new ListNode(1, new ListNode(3, new ListNode(4)));
-		ListNode mergedList = mergeTwoLists.mergeTwoLists(list1, list2);
-		while (mergedList != null) {
-			System.out.print(mergedList.val + " ");
-			mergedList = mergedList.next;
-		}
+//		MergeTwoLists mergeTwoLists = new MergeTwoLists();
+//		// Lista 1: [1, 2, 4]
+//		ListNode list1 = new ListNode(1, new ListNode(2, new ListNode(4)));
+//		// Lista 2: [1, 3, 4]
+//		ListNode list2 = new ListNode(1, new ListNode(3, new ListNode(4)));
+//		ListNode mergedList = mergeTwoLists.mergeTwoLists(list1, list2);
+//		while (mergedList != null) {
+//			System.out.print(mergedList.val + " ");
+//			mergedList = mergedList.next;
+//		}
 
 		//07 - 2025-01-08
-		System.out.println("23 horas de um dia corrido, passando pra te desejar forcas e te amo! Comp day da empresa e vc ta mega feliz :) so vai ter que acordar super cedo amanha e por isso nao vai da tempo pra fazer algo maior hj.");
+		//System.out.println("23 horas de um dia corrido, passando pra te desejar forcas e te amo! Comp day da empresa e vc ta mega feliz :) so vai ter que acordar super cedo amanha e por isso nao vai da tempo pra fazer algo maior hj.");
 
 		//08 - 2025-01-09
-		System.out.println("23:30 quintas e sextas sarao impossieveis, vc ta fazendo volei e natacao tem que compensar depois, dois exercicios em dois outros dias beijos se cuida te amo!");
+		//System.out.println("23:30 quintas e sextas sarao impossieveis, vc ta fazendo volei e natacao tem que compensar depois, dois exercicios em dois outros dias beijos se cuida te amo!");
 
 		//09 - 2025-01-10
-		System.out.println("23:52 eu esqueci que ontem era segunda e que essa semana eu fui quarta tbm pro trabalho entao hj nao vai da pra fazer exercicios, amanha estaremos ai beijooos");
+		//System.out.println("23:52 eu esqueci que ontem era segunda e que essa semana eu fui quarta tbm pro trabalho entao hj nao vai da pra fazer exercicios, amanha estaremos ai beijooos");
 
 		//10 - 2025-01-11
-		RemoveDuplicatesfromSortedArray removeDuplicatesfromSortedArray = new RemoveDuplicatesfromSortedArray();
-		int[] nums = {0,0,1,1,1,2,2,3,3,4};
-		System.out.println(removeDuplicatesfromSortedArray.removeDuplicates(nums));
+//		RemoveDuplicatesfromSortedArray removeDuplicatesfromSortedArray = new RemoveDuplicatesfromSortedArray();
+//		int[] nums = {0,0,1,1,1,2,2,3,3,4};
+//		System.out.println(removeDuplicatesfromSortedArray.removeDuplicates(nums));
+
+		//11 - 2025-01-12
+		RemoveElement removeElement = new RemoveElement();
+		int[] nums = {0,1,2,2,3,0,4,2};
+		System.out.println(removeElement.removeElement(nums, 2));
 	}
 
 }
