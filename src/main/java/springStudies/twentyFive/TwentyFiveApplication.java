@@ -74,6 +74,7 @@ public class TwentyFiveApplication {
 
 		System.out.println(findTheIndex.strStr(haystack, needle)); //see later how can we do it better, other day
 
+
 	}
 
 }
