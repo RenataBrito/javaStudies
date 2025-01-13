@@ -63,9 +63,17 @@ public class TwentyFiveApplication {
 //		System.out.println(removeDuplicatesfromSortedArray.removeDuplicates(nums));
 
 		//11 - 2025-01-12
-		RemoveElement removeElement = new RemoveElement();
-		int[] nums = {0,1,2,2,3,0,4,2};
-		System.out.println(removeElement.removeElement(nums, 2));
+//		RemoveElement removeElement = new RemoveElement();
+//		int[] nums = {0,1,2,2,3,0,4,2};
+//		System.out.println(removeElement.removeElement(nums, 2));
+
+		//12 - 2025-01-13
+		FindTheIndex findTheIndex = new FindTheIndex();
+		String haystack = new String("mississippi");
+		String needle = new String("issip");
+
+		System.out.println(findTheIndex.strStr(haystack, needle)); //see later how can we do it better, other day
+
 	}
 
 }
