@@ -74,6 +74,9 @@ public class TwentyFiveApplication {
 
 		System.out.println(findTheIndex.strStr(haystack, needle)); //see later how can we do it better, other day
 
+		//13 - 2025-01-14
+		System.out.println("essa semana 3 dias presenciais seguidos morte");
+
 
 	}
 
