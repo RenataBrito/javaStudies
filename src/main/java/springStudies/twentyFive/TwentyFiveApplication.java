@@ -77,6 +77,9 @@ public class TwentyFiveApplication {
 		//13 - 2025-01-14
 		System.out.println("essa semana 3 dias presenciais seguidos morte");
 
+		//14 - 2025-01-15
+		System.out.println("oto dia love you");
+
 
 	}
 
