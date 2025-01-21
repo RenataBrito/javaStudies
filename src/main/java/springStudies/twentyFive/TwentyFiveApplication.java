@@ -68,21 +68,25 @@ public class TwentyFiveApplication {
 //		System.out.println(removeElement.removeElement(nums, 2));
 
 		//12 - 2025-01-13
-		FindTheIndex findTheIndex = new FindTheIndex();
-		String haystack = new String("mississippi");
-		String needle = new String("issip");
+//		FindTheIndex findTheIndex = new FindTheIndex();
+//		String haystack = new String("mississippi");
+//		String needle = new String("issip");
+//
+//		System.out.println(findTheIndex.strStr(haystack, needle)); //see later how can we do it better, other day
+//
+//		//13 - 2025-01-14
+//		System.out.println("essa semana 3 dias presenciais seguidos morte");
+//
+//		//14 - 2025-01-15
+//		System.out.println("oto dia love you");
+//
+//		//15 - 2025-01-16
+//		System.out.println("quintou vamoo");
 
-		System.out.println(findTheIndex.strStr(haystack, needle)); //see later how can we do it better, other day
-
-		//13 - 2025-01-14
-		System.out.println("essa semana 3 dias presenciais seguidos morte");
-
-		//14 - 2025-01-15
-		System.out.println("oto dia love you");
-
-		//15 - 2025-01-16
-		System.out.println("quintou vamoo");
-
+		//16 - 2025-01-20
+		SearchInsert searchInsert = new SearchInsert();
+		int[] nums = {1,3,5,6};
+		System.out.println(searchInsert.searchInsert(nums,2));
 
 	}
 
