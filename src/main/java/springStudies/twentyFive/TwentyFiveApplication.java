@@ -89,9 +89,17 @@ public class TwentyFiveApplication {
 //		System.out.println(searchInsert.searchInsert(nums,2));
 
 		//17 - 2025-01-21
-		LengthofLastWord lengthofLastWord = new LengthofLastWord();
-		String phrase = "   fly me   to   the moon  ";
-		System.out.println(lengthofLastWord.lengthOfLastWord(phrase));
+//		LengthofLastWord lengthofLastWord = new LengthofLastWord();
+//		String phrase = "   fly me   to   the moon  ";
+//		System.out.println(lengthofLastWord.lengthOfLastWord(phrase));
+
+		//18 - 2025-01-22
+		int[] digits = {9,9};
+		PlusOne plusOne = new PlusOne();
+		for(int i : plusOne.plusOne(digits)){
+			System.out.println(i);
+		}
+
 
 	}
 
