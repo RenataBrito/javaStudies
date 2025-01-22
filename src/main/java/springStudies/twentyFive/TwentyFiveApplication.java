@@ -84,9 +84,14 @@ public class TwentyFiveApplication {
 //		System.out.println("quintou vamoo");
 
 		//16 - 2025-01-20
-		SearchInsert searchInsert = new SearchInsert();
-		int[] nums = {1,3,5,6};
-		System.out.println(searchInsert.searchInsert(nums,2));
+//		SearchInsert searchInsert = new SearchInsert();
+//		int[] nums = {1,3,5,6};
+//		System.out.println(searchInsert.searchInsert(nums,2));
+
+		//17 - 2025-01-21
+		LengthofLastWord lengthofLastWord = new LengthofLastWord();
+		String phrase = "   fly me   to   the moon  ";
+		System.out.println(lengthofLastWord.lengthOfLastWord(phrase));
 
 	}
 
