@@ -6,3 +6,5 @@ test
 yesterday a I forgot to commit sorry 
 
 not a lazy Thursday 
+
+fridouu
