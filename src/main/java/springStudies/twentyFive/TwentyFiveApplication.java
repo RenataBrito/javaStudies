@@ -94,12 +94,17 @@ public class TwentyFiveApplication {
 //		System.out.println(lengthofLastWord.lengthOfLastWord(phrase));
 
 		//18 - 2025-01-22
-		int[] digits = {9,9};
-		PlusOne plusOne = new PlusOne();
-		for(int i : plusOne.plusOne(digits)){
-			System.out.println(i);
-		}
+//		int[] digits = {9,9};
+//		PlusOne plusOne = new PlusOne();
+//		for(int i : plusOne.plusOne(digits)){
+//			System.out.println(i);
+//		}
 
+		//19 - 2025-01-26
+		AddBinary addBinary = new AddBinary();
+		String a = "11";
+		String b = "1";
+		System.out.println(addBinary.addBinary(a,b));
 
 	}
 
