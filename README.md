@@ -10,3 +10,4 @@ not a lazy Thursday
 fridouu
 
 sabado com love in house
+Monday in person
