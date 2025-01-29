@@ -11,4 +11,4 @@ fridouu
 
 sabado com love in house
 Monday in person
-outra terca qualquer
+outra terca qualquer, hj?
