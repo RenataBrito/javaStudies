@@ -101,10 +101,14 @@ public class TwentyFiveApplication {
 //		}
 
 		//19 - 2025-01-26
-		AddBinary addBinary = new AddBinary();
-		String a = "11";
-		String b = "1";
-		System.out.println(addBinary.addBinary(a,b));
+//		AddBinary addBinary = new AddBinary();
+//		String a = "11";
+//		String b = "1";
+//		System.out.println(addBinary.addBinary(a,b));
+
+		//20 - 2025-01-29
+		SqrtX sqrtX = new SqrtX();
+		System.out.println(sqrtX.mySqrt(8));
 
 	}
 
