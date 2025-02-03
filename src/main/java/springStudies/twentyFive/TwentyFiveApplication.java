@@ -110,6 +110,8 @@ public class TwentyFiveApplication {
 		SqrtX sqrtX = new SqrtX();
 		System.out.println(sqrtX.mySqrt(8));
 
+		System.out.println("Segunda da amiya no br vou estudar a reuniao");
+
 	}
 
 }
