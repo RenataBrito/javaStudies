@@ -114,6 +114,8 @@ public class TwentyFiveApplication {
 
 		System.out.println("such as an amazing day, i could done the presentation");
 
+		System.out.println("quarta feira meio ocupada");
+
 	}
 
 }
