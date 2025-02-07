@@ -116,6 +116,8 @@ public class TwentyFiveApplication {
 
 		System.out.println("quarta feira meio ocupada");
 
+		System.out.println("quinta feira amiyaaa");
+
 	}
 
 }
