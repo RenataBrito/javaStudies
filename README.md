@@ -15,3 +15,5 @@ outra terca qualquer, hj?
 quintaaa
 sextaaa
 outro domingo e outro sabado q eu esqueci
+
+sexta amiya
