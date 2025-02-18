@@ -107,17 +107,20 @@ public class TwentyFiveApplication {
 //		System.out.println(addBinary.addBinary(a,b));
 
 		//20 - 2025-01-29
-		SqrtX sqrtX = new SqrtX();
-		System.out.println(sqrtX.mySqrt(8));
+//		SqrtX sqrtX = new SqrtX();
+//		System.out.println(sqrtX.mySqrt(8));
+//
+//		System.out.println("Segunda da amiya no br vou estudar a reuniao");
+//
+//		System.out.println("such as an amazing day, i could done the presentation");
+//
+//		System.out.println("quarta feira meio ocupada");
+//
+//		System.out.println("quinta feira amiyaaa");
 
-		System.out.println("Segunda da amiya no br vou estudar a reuniao");
-
-		System.out.println("such as an amazing day, i could done the presentation");
-
-		System.out.println("quarta feira meio ocupada");
-
-		System.out.println("quinta feira amiyaaa");
-
+		//21 - 2025-02-17
+		ClimbStairs climbStairs = new ClimbStairs();
+		System.out.println(climbStairs.climbStairs(5));
 	}
 
 }
